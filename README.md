@@ -12,4 +12,4 @@ Suppose a Person is in an emergency situation, he/she called for help over telep
 5. Also some change has been done in the built in django templates, for instances, in settings.py (AssignmentOreed\src\AssignmentOreed\settings.py) , in views.py(AssignmentOreed\src\blog\views.py), in urls.py(AssignmentOreed\src\AssignmentOreed\urls.py) etc.
 
 
-Just the demo code is given here
+Just the demo code is given here.
